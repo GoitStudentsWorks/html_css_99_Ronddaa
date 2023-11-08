@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/KulBabki/",
+    "build": "vite build --base=/html_css_99_Ronddaa/",
     "preview": "vite preview"
   },
   "devDependencies": {
